@@ -1,22 +1,22 @@
-;EIE Bleida- Echantiollannage des sols;;;
-;;;;
-P;X;Y;Z;Localisation/Observation
-1S;395593;360332;1122;Zaouite Sidi Abdelhak:lit du Oued wad Gloa 
-2S;395616;360342;1120;"Zaouite Sidi Abdelhak : parcelle cultivÃ©e Ã  cotÃ© 
-d'oued Gloa "
-3S;396788;363912;1179;Chaaba d'oued Gloa Ã  cÃ´tÃ© de la source Taiwalia
-4S;398479;368435;1256;Lit de l'oued Ã  entre le puit de  Blighi Med 1 Blighi Med 2
-5AS/5BS;398639;368499;1253;Parcelle de Blidate Ahmed (rive gauch de l'oued)
-6S;398634;368854;1263;Parcelle de Nsayli 
-7S;398661;369183;1242;Parcelle de Bouhi Mbarek
-1D;398997;370778;1265;Douissat rive droite  du oued
-2D;398375;370097;1245;Parcelle Hamri Lahsen
-3D;399503;369993;1250;Lit de l'oued Ã  cÃ´tÃ© du puit de Bouhi Lahsen
-4D;399915;369596;1268;Parcelle de Laadimi Daba Ahmed 
-5D;399847;369083;1248;Chaaba Ã  cotÃ© de la maison de Laadimi Lahsen
-6D;399230;369444;1260;Parcelle de Kadouri Med
-7D;398198;369968;1244;Lit d'oued Trifa ( Ã  cotÃ© du puit de Bouflor Boujamaa)
-8D;397710;370419;1253;Parcelle de Sghir Hassan
-9D;397531;371396;1271;Lit d'oued Agbalo
-10D;398246;373170;1310;Aval de la digue du mine d'exploitation de l'or
-11D;395040;374713;1351;Parcelle de Bouhi Brahim
+;EIE Bleida- Echantiollannage des sols;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+P;X;Y;Z;Localisation/Observation;;;;;;;;;;;;;;;;;
+1S;395593;360332;1122;Zaouite Sidi Abdelhak:lit du Oued wad Gloa ;;;;;N° d'échantillon;Lieu d'échantillonage;Date;Propriétaire;Utilisation ;Nord;Ouest;Altitude en m;T °C;pH;EC en µS/cm;Oxygène Dissous mg/l;Prof de la nappe
+2S;395616;360342;1120;"Zaouite Sidi Abdelhak : parcelle cultivée à coté 
+d'oued Gloa ";;;;;PAG1;Aghbar (Talkart);07/01/2011;CTT ;;;;;;;;;
+3S;396788;363912;1179;Chaaba d'oued Gloa à côté de la source Taiwalia;;;;;PAG2;Aghbar (Talkart);07/01/2011;CTT ;;;;;;;;;
+4S;398479;368435;1256;Lit de l'oued à entre le puit de  Blighi Med 1 Blighi Med 2;;;;;PAG2bis;Aghbar (Talkart);07/01/2011;CTT ;;;;;;;;;
+5AS/5BS;398639;368499;1253;Parcelle de Blidate Ahmed (rive gauch de l'oued);;;;;PAG3;Aghbar (Exhaure);07/01/2011;CTT ;;;;;;;;;
+6S;398634;368854;1263;Parcelle de Nsayli ;;;;;PAG4;Oumlil;07/01/2011;Brahim Oudar;;;;;;;;;
+7S;398661;369183;1242;Parcelle de Bouhi Mbarek;;;;;PAG5;Oumlil;07/01/2011;mohamed Oudar;;;;;;;;;
+1D;398997;370778;1265;Douissat rive droite  du oued;;;;;PAG6;Oumlil;07/01/2011;Ait Motor;;;;;;;;;
+2D;398375;370097;1245;Parcelle Hamri Lahsen;;;;;PAG7;Oumlil;07/01/2011;Bassou Brahim;;;;;;;;;
+3D;399503;369993;1250;Lit de l'oued à côté du puit de Bouhi Lahsen;;;;;PAG8;Oumlil;07/01/2011;Aknouz;;;;;;;;;
+4D;399915;369596;1268;Parcelle de Laadimi Daba Ahmed ;;;;;PAG9;Oumlil;08/01/2011;Zin brahim;;;;;;;;;
+5D;399847;369083;1248;Chaaba à coté de la maison de Laadimi Lahsen;;;;;;;;;;;;;;;;;
+6D;399230;369444;1260;Parcelle de Kadouri Med;;;;;les echantillon : absence des resultats;;;;;;;;;;;;
+7D;398198;369968;1244;Lit d'oued Trifa ( à coté du puit de Bouflor Boujamaa);;;;;;;;;;;;;;;;;
+8D;397710;370419;1253;Parcelle de Sghir Hassan;;;;;;;;;;;;;;;;;
+9D;397531;371396;1271;Lit d'oued Agbalo;;;;;;;;;;;;;;;;;
+10D;398246;373170;1310;Aval de la digue du mine d'exploitation de l'or;;;;;;;;;;;;;;;;;
+11D;395040;374713;1351;Parcelle de Bouhi Brahim;;;;;;;;;;;;;;;;;
