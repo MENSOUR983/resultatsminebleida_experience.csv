@@ -3,9 +3,9 @@
 P;X;Y;Z;Localisation/Observation;;;;;;;;;;;;;;;;;
 1S;395593;360332;1122;Zaouite Sidi Abdelhak:lit du Oued wad Gloa ;;;;;N° d'échantillon;Lieu d'échantillonage;Date;Propriétaire;Utilisation ;Nord;Ouest;Altitude en m;T °C;pH;EC en µS/cm;Oxygène Dissous mg/l;Prof de la nappe
 2S;395616;360342;1120;"Zaouite Sidi Abdelhak : parcelle cultivée à coté 
-d'oued Gloa ";;;;;PAG1;Aghbar (Talkart);07/01/2011;CTT ;;;;;;;;;
-3S;396788;363912;1179;Chaaba d'oued Gloa à côté de la source Taiwalia;;;;;PAG2;Aghbar (Talkart);07/01/2011;CTT ;;;;;;;;;
-4S;398479;368435;1256;Lit de l'oued à entre le puit de  Blighi Med 1 Blighi Med 2;;;;;PAG2bis;Aghbar (Talkart);07/01/2011;CTT ;;;;;;;;;
+d'oued Gloa ";;;;;PAG1;Aghbar (Talkart);07/01/2011;CTT ;;;;;;7,2;;;
+3S;396788;363912;1179;Chaaba d'oued Gloa à côté de la source Taiwalia;;;;;PAG2;Aghbar (Talkart);07/01/2011;CTT ;;;;;;6,5;;;
+4S;398479;368435;1256;Lit de l'oued à entre le puit de  Blighi Med 1 Blighi Med 2;;;;;PAG2bis;Aghbar (Talkart);07/01/2011;CTT ;;;;;;7,5;;;
 5AS/5BS;398639;368499;1253;Parcelle de Blidate Ahmed (rive gauch de l'oued);;;;;PAG3;Aghbar (Exhaure);07/01/2011;CTT ;;;;;;;;;
 6S;398634;368854;1263;Parcelle de Nsayli ;;;;;PAG4;Oumlil;07/01/2011;Brahim Oudar;;;;;;;;;
 7S;398661;369183;1242;Parcelle de Bouhi Mbarek;;;;;PAG5;Oumlil;07/01/2011;mohamed Oudar;;;;;;;;;
